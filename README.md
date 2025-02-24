@@ -93,5 +93,5 @@ This project is **open-source** and licensed under the **MIT License**.
 
 ## 📧 Contact
 For any questions or improvements, feel free to reach out!
-- **Email**: your-email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Email**: hcsarker2002@gmail.com
+- **GitHub**: [hcsarker](https://github.com/hcsarker)
