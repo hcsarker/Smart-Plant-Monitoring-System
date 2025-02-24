@@ -98,3 +98,22 @@ void loop() {
     digitalWrite(pump, LOW);  // Deactivate pump if soil moisture is sufficient
   }
 }
+
+📷 Project Demo
+(Attach images or a YouTube link of your project in action.)
+
+🔗 Future Improvements
+📡 Cloud Integration: Send data to Blynk/ThingSpeak for remote monitoring.
+📱 Mobile App Support: Create an app for real-time monitoring and control.
+🌿 AI-based Recommendations: Suggest optimal watering schedules based on weather data and plant type.
+🤝 Contributing
+Contributions are welcome! Feel free to fork this repository, create a new branch, and submit a pull request.
+
+📜 License
+This project is open-source and licensed under the MIT License.
+
+📧 Contact
+For any questions or improvements, feel free to reach out!
+
+Email: hcsarker2002@gmail.com
+GitHub: hcsarker
